@@ -1,0 +1,9 @@
+/Users/kayhanozturk/Desktop/spring-boot-projects/spring-boot-validation/src/main/java/com/springbootvalidation/controller/PersonController.java
+/Users/kayhanozturk/Desktop/spring-boot-projects/spring-boot-validation/src/main/java/com/springbootvalidation/repository/PersonRepository.java
+/Users/kayhanozturk/Desktop/spring-boot-projects/spring-boot-validation/src/main/java/com/springbootvalidation/model/Person.java
+/Users/kayhanozturk/Desktop/spring-boot-projects/spring-boot-validation/src/main/java/com/springbootvalidation/service/PersonService.java
+/Users/kayhanozturk/Desktop/spring-boot-projects/spring-boot-validation/src/main/java/com/springbootvalidation/exception/ApiExceptionHandler.java
+/Users/kayhanozturk/Desktop/spring-boot-projects/spring-boot-validation/src/main/java/com/springbootvalidation/service/impl/PersonServiceImpl.java
+/Users/kayhanozturk/Desktop/spring-boot-projects/spring-boot-validation/src/main/java/com/springbootvalidation/exception/ApiException.java
+/Users/kayhanozturk/Desktop/spring-boot-projects/spring-boot-validation/src/main/java/com/springbootvalidation/exception/PersonNotFoundException.java
+/Users/kayhanozturk/Desktop/spring-boot-projects/spring-boot-validation/src/main/java/com/springbootvalidation/SpringBootApplication.java
