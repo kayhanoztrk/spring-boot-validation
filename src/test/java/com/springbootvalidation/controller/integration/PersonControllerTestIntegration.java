@@ -16,7 +16,15 @@ import org.springframework.web.context.WebApplicationContext;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.*;
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
+import com.springbootvalidation.controller.PersonController;
 
+/**
+ * Integration test for {@link PersonController}
+ *
+ * @author Kayhan Öztürk
+ * @version  0.1
+ * @since 0.1
+ */
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class PersonControllerTestIntegration {
